@@ -9,9 +9,10 @@ npm install whisper-handler
 ```
 
 ### Example
-```
+```javascript
 var whisper = require('whisper-handler');
-whisper("/tell Ferdinand Hey man! I like your style...");
+var obj = whisper("/tell Ferdinand Hey man! I like your style...");
+
+obj.target // "Ferdinand"
+obj.message // "Hey man! I like your style..."
 ```
-This returns an object where the .target property is equal to "Ferdinand", and
-.message property is equal to "Hey man! I like your style..."
