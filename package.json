@@ -1,0 +1,22 @@
+{
+  "name": "whisper-handler",
+  "version": "1.0.0",
+  "description": "A module for chat applications that handles World Of Warcraft style whisper commands",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfaraee/whisper.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Philipp Faraee <pfaraee@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfaraee/whisper/issues"
+  },
+  "homepage": "https://github.com/pfaraee/whisper#readme"
+}
