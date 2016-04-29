@@ -1,6 +1,6 @@
 {
   "name": "whisper-handler",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A module for chat applications that handles World Of Warcraft style whisper commands",
   "main": "module.js",
   "scripts": {
